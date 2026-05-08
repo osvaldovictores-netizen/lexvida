@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.1.160/categories/</loc>
+    <loc>http://lexvida.com/categories/</loc>
   </url><url>
-    <loc>http://192.168.1.160/</loc>
+    <loc>http://lexvida.com/</loc>
   </url><url>
-    <loc>http://192.168.1.160/tags/</loc>
+    <loc>http://lexvida.com/tags/</loc>
   </url>
 </urlset>
