@@ -18,7 +18,7 @@ jobs:
           hugo-version: 'latest'
           extended: true
       - name: Compilar sitio (Build)
-        run: hugo --minify
+        run: hugo --minify --baseURL "https://lexvida.com/"
       - name: Enviar archivos al LXC
         uses: easingthemes/ssh-deploy@main
         env:
