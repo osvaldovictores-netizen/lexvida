@@ -1,4 +1,4 @@
-baseURL = 'http://lexvida.com/'
+baseURL = 'https://lexvida.com/'
 languageCode = 'es-es'
 title = 'Mi Sitio con PaperMod'
 theme = "PaperMod"
