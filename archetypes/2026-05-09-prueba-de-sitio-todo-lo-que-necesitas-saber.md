@@ -1,9 +1,11 @@
 ---
 title: "Prueba de Sitio: Todo lo que Necesitas Saber"
-description: ""
-date: 2026-05-09T01:58:06.179Z
-preview: ""
-draft: true
+description: |
+    sitio lexvida bajo construccion con hugo y tema papermod
+date: 2026-05-09T02:00:05.847Z
+preview: /medios/como-alargar-la-vida-util-de-tu-bateria-del-auto.png
+draft: false
 tags: []
 categories: []
+slug: prueba-de-sitio-todo-lo-necesitas-saber
 ---
